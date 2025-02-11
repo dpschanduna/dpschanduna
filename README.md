@@ -70,7 +70,7 @@
     </section>
     <section id="contact">
         <h2>Contact Us</h2>
-        <p>Email: info@dastigeerips.com | Phone: +123 456 7890</p>
+        <p>Email: sheikhshowkatnazir@gmail.com | Phone: +918825056399</p>
     </section>
     <footer>
         &copy; 2025 Dastigeeri Public School, Chanduna Ganderbal. All rights reserved.
